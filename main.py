@@ -25,7 +25,7 @@ register_handlers(app)
 
 # Function to run the Flask web server
 def run_web():
-    web.run(host="0.0.0.0", port=8080)
+    web.run(host="0.0.0.0", port=5000)
 
 # Start Flask server in a separate thread
 threading.Thread(target=run_web).start()
