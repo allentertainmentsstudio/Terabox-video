@@ -1,0 +1,6 @@
+terabox-bot
+│
+├── bot.py
+├── requirements.txt
+├── Dockerfile
+└── config.py
