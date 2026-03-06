@@ -1,23 +1,29 @@
 📦 TeraBox Video Downloader Telegram Bot
 
+"Python" (https://img.shields.io/badge/Python-3.8+-blue)
+"Telegram Bot" (https://img.shields.io/badge/Telegram-Bot-green)
+"Docker" (https://img.shields.io/badge/Docker-Supported-blue)
+"License" (https://img.shields.io/badge/License-MIT-yellow)
+
 A simple Telegram bot that downloads videos from TeraBox share links and sends them directly in Telegram.
 
 ---
 
 🚀 Features
 
-- 📥 Download video from TeraBox link
+- 📥 Download videos from TeraBox links
 - 📤 Upload video directly to Telegram
 - 🤖 Easy to use Telegram bot
 - ⚡ Fast download and upload
 - 🐳 Docker support
+- 🧩 Simple project structure
 
 ---
 
 📁 Project Structure
 
 AK/
-dockerfile
+Dockerfile
 README.md
 main.py
 bot.py
@@ -53,8 +59,7 @@ BOT_TOKEN = "YOUR_BOT_TOKEN"
 Clone the repository:
 
 git clone https://github.com/allentertainmentsstudio/Terabox-video.git
-
-cd terabox-video
+cd Terabox-video
 
 Install dependencies:
 
@@ -82,17 +87,17 @@ docker run terabox-bot
 
 📲 Usage
 
-1. Start the bot in Telegram
+1️⃣ Start the bot in Telegram
 
 /start
 
-2. Send a TeraBox link
+2️⃣ Send a TeraBox share link
 
 Example:
 
 https://terabox.com/s/xxxxxx
 
-3. The bot will download the video and upload it to Telegram.
+3️⃣ The bot will download the video and upload it to Telegram.
 
 ---
 
@@ -105,4 +110,12 @@ The developer is not responsible for misuse of this bot.
 
 ⭐ Support
 
-If you like this project, please star the repository.
+If you like this project:
+
+⭐ Star this repository on GitHub
+
+---
+
+👨‍💻 Developer
+
+Anuj kumar
