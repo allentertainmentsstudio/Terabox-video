@@ -53,6 +53,7 @@ BOT_TOKEN = "YOUR_BOT_TOKEN"
 Clone the repository:
 
 git clone https://github.com/allentertainmentsstudio/Terabox-video.git
+
 cd terabox-video
 
 Install dependencies:
